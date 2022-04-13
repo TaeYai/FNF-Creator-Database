@@ -8,6 +8,7 @@ MIDI,FLP And FLA
 * Vitor
 * SharvFNF
 * Ryoku05
+* LilShmagiko
 * [Add Yourself]
 
 ### Special Thanks
