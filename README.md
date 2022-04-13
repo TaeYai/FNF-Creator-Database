@@ -11,6 +11,7 @@ MIDI,FLP And FLA
 * LilShmagiko
 * Furscorns
 * Suyenko
+* Smecko Geck
 * [Add Yourself]
 
 ### Special Thanks
