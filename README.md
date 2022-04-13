@@ -9,6 +9,7 @@ MIDI,FLP And FLA
 * SharvFNF
 * Ryoku05
 * LilShmagiko
+* Furscorns
 * [Add Yourself]
 
 ### Special Thanks
