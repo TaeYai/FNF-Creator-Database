@@ -12,6 +12,7 @@ MIDI,FLP And FLA
 * Furscorns
 * Suyenko
 * Smecko Geck
+* Neonight
 * [Add Yourself]
 
 ### Special Thanks
