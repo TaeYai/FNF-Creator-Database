@@ -1,23 +1,23 @@
 # FNF Creator Database
-The Repo That Have Everything From Famous FNF Creator like Blantados Sharv Neonight Vitor
+The repo that has everything from famous FNF creators such as Blantados, Sharv, Neonight, Vitor. This will help you make your own covers and content for Friday Night Funkin' mods.
+
 ## What We Have:
-MIDI,FLP And FLA
+Chromatics, MIDIs, and FLAs.
 
 ## Credits:
 * TaeYai
 * Vitor
 * SharvFNF
+* Neonight
 * Ryoku05
 * LilShmagiko
 * Furscorns
 * Suyenko
 * Smecko Geck
-* Neonight
-* [Add Yourself]
 
 ### Special Thanks
 * Brightfyre - Idea
-
+* Many FNF Modders - For sharing their assets publicly!
 
 _____________________________________
 
