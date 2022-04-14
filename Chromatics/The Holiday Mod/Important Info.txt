@@ -1,0 +1,1 @@
+For Zanta's voice: If you can't use the Zanta.fst, use the Tricky Soundfount with the No Effects preset + the Zanta_effects.fst
